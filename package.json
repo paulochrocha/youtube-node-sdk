@@ -1,0 +1,23 @@
+{
+  "name": "youtube-node-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulochrocha/youtube-node-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulochrocha/youtube-node-sdk/issues"
+  },
+  "homepage": "https://github.com/paulochrocha/youtube-node-sdk#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "youtube-api": "^2.0.6"
+  }
+}
